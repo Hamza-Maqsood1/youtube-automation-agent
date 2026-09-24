@@ -8,11 +8,6 @@ Research topics → write scripts → generate narration and visuals → assembl
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-43853d.svg?logo=node.js&logoColor=white)](package.json)
 [![Platform](https://img.shields.io/badge/platform-self--hosted-informational.svg)](#quick-start)
 [![Made with Express](https://img.shields.io/badge/Express-4-000000.svg?logo=express&logoColor=white)](https://expressjs.com/)
-[![Fork on GitHub](https://img.shields.io/badge/Fork%20on-GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/Hamza-Maqsood1/youtube-automation-agent/fork)
-
-**Repository:** [github.com/Hamza-Maqsood1/youtube-automation-agent](https://github.com/Hamza-Maqsood1/youtube-automation-agent) · [Fork it](https://github.com/Hamza-Maqsood1/youtube-automation-agent/fork) · [Clone or download](https://github.com/Hamza-Maqsood1/youtube-automation-agent)
-
-> **Keywords:** YouTube automation · AI content pipeline · autonomous agent · AI video generation · text-to-speech · SEO optimization · content creation · Node.js · self-hosted · faceless YouTube · YouTube API · OpenAI · Gemini
 
 ---
 
