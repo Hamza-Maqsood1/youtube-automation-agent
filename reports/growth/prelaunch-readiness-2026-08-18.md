@@ -1,4 +1,4 @@
-# Lumen pre-launch readiness — 2026-08-18
+# Lumen pre-launch readiness - 2026-08-18
 
 ## Completed in repository
 
@@ -11,7 +11,7 @@
 
 ## Launch blockers
 
-- [ ] Capture a real 30–45 second dashboard demo from a verified end-to-end run.
+- [ ] Capture a real 30-45 second dashboard demo from a verified end-to-end run.
 - [ ] Publish three verified outputs using the evidence template under `examples/`.
 - [ ] Run a clean Gemini-first installation through a real non-simulated MP4.
 - [ ] Synchronize the external Mintlify site with the repository. Its source is not present in this checkout, and the live site still contains older setup, model, and cost claims.
