@@ -91,3 +91,7 @@ data/thumbnails/
 
 # Claude worktrees
 .claude/worktrees/
+
+# Screenshots for the README (allow these PNGs)
+!assets/screenshots/
+!assets/screenshots/*.png

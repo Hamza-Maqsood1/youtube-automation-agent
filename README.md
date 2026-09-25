@@ -4,6 +4,8 @@
 
 Research topics → write scripts → generate narration and visuals → assemble real videos → optimize metadata → review → schedule → publish → learn from analytics and audience comments. You keep human approval and full control of your credentials, media, and data.
 
+![YT Agent operator dashboard](assets/screenshots/dashboard.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-43853d.svg?logo=node.js&logoColor=white)](package.json)
 [![Platform](https://img.shields.io/badge/platform-self--hosted-informational.svg)](#quick-start)
@@ -18,6 +20,11 @@ YT Agent is an autonomous, approval-first content system for YouTube creators an
 It runs entirely on your own machine. Your API keys, generated media, and channel data never leave your control, and every side-effecting action (publishing, posting a comment, spending paid credits) requires explicit confirmation. Simulated or placeholder output can never enter the approval or publishing path.
 
 **Who it's for:** creators running faceless or automated channels, teams that want a repeatable content pipeline with an audit trail, and developers who want a hackable, provider-agnostic foundation for AI video production.
+
+| Channel setup | Production readiness |
+|:---:|:---:|
+| ![Channel setup](assets/screenshots/channel-setup.png) | ![Production readiness gate](assets/screenshots/production-readiness.png) |
+| Guardrails every agent follows | A verified dry run gates autonomy |
 
 ## Features
 
